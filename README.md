@@ -1,4 +1,4 @@
-# M2 - Algorithmiquee avancée
+# M2 - Algorithmique avancée
 
 ## TP : Clavier SMS
 
